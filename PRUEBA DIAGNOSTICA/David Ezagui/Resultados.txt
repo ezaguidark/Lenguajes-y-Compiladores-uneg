@@ -1,3 +1,24 @@
-Resultados del ejercicio numero 1:
-- Python: 0.00137990 segundos
-- C:  0.00100000 segundos
+--------- Resultados del ejercicio numero 1 (Tablero De Ajedrez): --------- 
+    - Python: 0.00137990 segundos
+    - C:  0.00100000 segundos
+
+
+--------- Resulatos del ejercicio numero 2 (Polinomio con Pascal): --------- 
+
+Nota: el lenguaje C tiene algunas limitaciones con el desbordamiento de cifras demasiado grandes.
+Tambien, el contador de tiempo no registra exactamente procesos demasiado rapidos, es por eso que Python puede registrar
+tiempos mas reducidos.
+
+* Promero se realizo una prueba con n = 10 y el valor de X = 1:
+    - Python: Resultado final f(1) = 1024 | Tiempo de ejecucion (Python): 0.00046400 segundos
+    - C: Resultado final f(1) = 1024 | Tiempo de ejecucion (C): 0.00100000 segundos
+
+* Prueba real con n = 100
+    - Python: 
+        Resultado final f(1) = 1267650600228229401496703205376
+        Tiempo de ejecucion (Python): 0.00091860 segundos
+
+    - C:
+        Resultado final f(1) = -25769803776     (integer overflow)
+        Tiempo de ejecucion (C): 0.00600000 segundos
+

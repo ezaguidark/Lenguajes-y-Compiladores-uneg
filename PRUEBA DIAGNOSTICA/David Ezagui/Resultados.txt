@@ -1,0 +1,3 @@
+Resultados del ejercicio numero 1:
+- Python: 0.00137990 segundos
+- C:  0.00100000 segundos

@@ -22,3 +22,41 @@ tiempos mas reducidos.
         Resultado final f(1) = -25769803776     (integer overflow)
         Tiempo de ejecucion (C): 0.00600000 segundos
 
+
+--------- Resulatos del ejercicio numero 3 (Traductor de palabras reservadas): --------- 
+
+Resultado al abrir el archivo del ejercicio 1:
+
+ARCHIVO 'tablero_ajedrez.c' CARGADO: 
+Palabras encontradas: 
+
+PALABRA EN C    | TRADUCCION               
+-----------------------------------------
+void            -> vacio                    
+const           -> constante                
+char            -> caracter                 
+int             -> entero                   
+char            -> caracter                 
+int             -> entero                   
+int             -> entero                   
+for             -> para                     
+int             -> entero                   
+char            -> caracter                 
+if              -> si                       
+int             -> entero                   
+int             -> entero                   
+if              -> si                       
+return          -> retornar                 
+int             -> entero                   
+int             -> entero                   
+if              -> si                       
+return          -> retornar                 
+int             -> entero                   
+char            -> caracter                 
+int             -> entero                   
+char            -> caracter                 
+for             -> para                     
+int             -> entero                   
+double          -> doble precision          
+double          -> doble precision          
+return          -> retornar    

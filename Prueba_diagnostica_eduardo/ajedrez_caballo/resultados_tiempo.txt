@@ -1,0 +1,1 @@
+Tiempo de ejecucion en C (100000 iteraciones de los 500 movimientos): 0.000000 segundos

@@ -2,6 +2,9 @@
     - Python: 0.00137990 segundos
     - C:  0.00100000 segundos
 
+    - Tiempo de ejecucion (Python): 0.00231130 segundos (Actualizado)
+    - Tiempo de ejecucion (C): 0.00100000 segundos  (Actualizado)
+
 
 --------- Resulatos del ejercicio numero 2 (Polinomio con Pascal): --------- 
 

@@ -1,0 +1,1 @@
+Ejercicio 2 - Tiempo C (n=100, 50k iteraciones): 0.659000 segundos

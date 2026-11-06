@@ -1,3 +1,10 @@
+Resultados David Ezagui 24.963.880
+Seccion 03
+
+Enlace al video:
+
+https://drive.google.com/file/d/1sUbv23RQD-GsLhszsC5FGxZNuo6k_ysv/view?usp=sharing
+
 --------- Resultados del ejercicio numero 1 (Tablero De Ajedrez): --------- 
     - Python: 0.00137990 segundos
     - C:  0.00100000 segundos

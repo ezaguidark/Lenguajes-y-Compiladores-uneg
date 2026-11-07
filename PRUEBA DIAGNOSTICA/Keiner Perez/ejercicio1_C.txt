@@ -1,0 +1,1 @@
+Tiempo para validar 500 movimientos en 10 iteraciones:0.000011 segundos

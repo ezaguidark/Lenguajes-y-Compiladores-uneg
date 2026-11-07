@@ -1,0 +1,4 @@
+Resultados de medicion para n=100:
+-----------------------------------
+Tiempo de ejecucion en C: 0.000000 segundos
+Tiempo de ejecucion en Python: 0.001790 segundos

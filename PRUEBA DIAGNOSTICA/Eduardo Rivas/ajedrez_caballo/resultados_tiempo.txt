@@ -1,0 +1,2 @@
+Tiempo de ejecucion en C (100000 iteraciones de los 500 movimientos): 0.004000 segundos
+Tiempo de ejecucion en Python (10 iteraciones): 0.000758 segundos

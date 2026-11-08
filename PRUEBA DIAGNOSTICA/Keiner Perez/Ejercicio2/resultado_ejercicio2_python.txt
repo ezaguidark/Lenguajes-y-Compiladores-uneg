@@ -104,4 +104,4 @@ Coeficiente de x^1: 100
 Termino independiente (x^0): 1
 
 =================================================================
-Tiempo de ejecucion en Python (n=100): 0.000999928 segundos
+Tiempo de ejecucion en Python (n=100): 0.000000000 segundos

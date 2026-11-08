@@ -104,4 +104,4 @@ Coeficiente de x^1   : 100
 Coeficiente de x^0   : 1
 
 =========================================================
-Tiempo de ejecucion C (n=100): 0.000701900 segundos
+Tiempo de ejecucion C (n=100): 0.000761400 segundos

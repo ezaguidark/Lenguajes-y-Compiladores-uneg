@@ -1,8 +1,0 @@
-Generacion de coeficientes (n=100) en C:
-Coeficiente x^100: 1
-Coeficiente x^99: 100
-Coeficiente x^98: 4950
-Coeficiente x^97: 161700
-Coeficiente x^96: 3921225
-Coeficiente x^95: 75287520
-Tiempo de ejecución: 0.000000 segundos
